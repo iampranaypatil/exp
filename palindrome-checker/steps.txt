@@ -1,0 +1,11 @@
+1.open PALINDROME-CHECKER ---> by cd PALINDROME-CHECKER
+
+After that open cmd and type the following steps:
+
+2.\PALINDROME-CHECKER>npm install               <--first must command
+
+3.\PALINDROME-CHECKER>node app.js               <-- for run app.js
+
+4.on postman get url or chrome url paste--> http://localhost:3000/api/checkPalindrome/radar -->this code is palindrome
+
+5. http://localhost:3000/api/checkPalindrome/moka -->this code is not palindrome
